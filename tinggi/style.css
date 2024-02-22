@@ -1,0 +1,27 @@
+.judul-utama {
+    justify-content: center;
+    text-align: center;
+    background-color: aquamarine;
+    }
+    
+    .form-utama {
+        justify-content: center;
+    }
+    
+    .angka-pertama+ {
+        text-align: left;
+    }
+    
+    .angka-kedua+ {
+        text-align: left;
+    }
+    
+    .box-pertama {
+        justify-content: center;
+        text-align: center;
+    }
+    
+    .box-kedua {
+        justify-content: center;
+        text-align: center;
+    }
